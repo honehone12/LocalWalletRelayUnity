@@ -1,2 +1,2 @@
 # LocalWalletRelayUnity
-Test for my wallet relay server for unity project
+Test for my wallet relay server for unity project.
