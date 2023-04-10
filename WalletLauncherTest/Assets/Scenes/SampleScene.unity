@@ -986,7 +986,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 98bd32ff527267a458ecd3cd5123071e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  launchWindow: 1
+  launchWindow: 0
   timeout: 60
   payload:
     type: entry_function_payload
