@@ -992,7 +992,7 @@ MonoBehaviour:
     type: entry_function_payload
     function: 0x1::coin::transfer
     arguments:
-    - 0xced6c5586480ea9b1e29770bdae3b8fb43bbeaeb2bc3f28cde9a8bf97b086508
+    - 0x0
     - 10000
     type_arguments:
     - 0x1::aptos_coin::AptosCoin
